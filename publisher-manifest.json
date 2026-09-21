@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b113144f27587d595fe83c7b",
+  "owner": "bmayjvtaa",
+  "repo": "page-2ba47ad937a476ee7987fa13",
+  "title": "Bitz",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2ba47ad937a476ee7987fa13",
+      "a": "Bitz",
+      "b": "2027官方最新地址导航",
+      "entity": "Bitz",
+      "brand": "Bitz",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "dc92a03facce0a798826d2fbdd5849327032d7781a4d1269736a93743194358f",
+      "content": {
+        "primary_entity": "Bitz",
+        "keyword1": "Bitz",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选客户端，按需配置订阅。",
+          "AI_CLIENTS_TITLE": "设备与客户端",
+          "AI_CLOSING_TEXT": "选对套餐，配置好客户端，即可开始使用。",
+          "AI_CLOSING_TITLE": "开始使用 Bitz",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，月付分别为 ¥15、¥35 与 ¥85，年付可享 ¥150、¥350 与 ¥850 的优惠价格。基础版适合轻度浏览，每月 100GB 流量、3 台设备在线；旗舰版每月 300GB 流量、5 台设备在线，并搭载 IPLC 专线优化游戏体验；团队版每月 1000GB 流量、20 台设备在线，支持企业定制路由与专属客户经理。下载客户端、导入订阅后即可跨设备使用。",
+          "AI_FEATURES_INTRO": "从套餐、设备到周期，选对适合自己的方案。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台设备在线，按家庭或团队规模选择。",
+          "AI_FEATURE_TEXT_2": "每月 100GB 到 1000GB 不等，轻度浏览与多人共享可按流量需求选择。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付可享优惠价格，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量与带宽",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "选择服务、查看适配要求、按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Bitz 提供基础版、旗舰版与团队版三档订阅，支持多设备同时在线，并搭载流媒体解锁与游戏专线优化。按设备数量、流量需求与订阅周期挑选合适套餐，下载对应客户端导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选择套餐",
+          "AI_HIGHLIGHT_1": "三档订阅按需选择",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "流媒体与游戏线路优化",
+          "AI_PLANS_INTRO": "基础版每月 ¥15 适合轻度浏览，旗舰版每月 ¥35 提供 300GB 流量与 IPLC 专线，团队版每月 ¥85 支持 20 台设备与定制路由。可按需选择月付或年付。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量、流量需求和预算，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认系统版本与网络环境，查看客户端对当前设备的适配要求。",
+          "AI_STEP_TEXT_3": "参考对应客户端文档，导入订阅信息并完成配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Bitz 订阅方案",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB 流量、5 台设备，含 IPLC 专线；团队版每月 1000GB 流量、20 台设备。按年付分别约 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。多人共享或设备较多时，建议选择设备数匹配的套餐。",
+          "AI_FAQ_ANSWER_3": "可用 Clash、Shadowrocket、V2rayN 等客户端，根据设备系统选择对应版本，再按客户端文档导入订阅链接。",
+          "AI_FAQ_ANSWER_4": "月付和年付可按需选择，年付方案在价格上更划算。基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_FAQ_ANSWER_5": "团队版提供 VIP 专属高带宽节点、企业定制路由和专属客户经理，适合多设备团队场景，可根据实际需求订购。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Bitz 三档套餐的主要区别是什么？",
+          "AI_FAQ_QUESTION_2": "每档套餐支持的设备数量分别是多少？",
+          "AI_FAQ_QUESTION_3": "应该用哪些客户端导入订阅？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选择？",
+          "AI_FAQ_QUESTION_5": "团队版适合什么使用场景？",
+          "AI_FAQ_TITLE": "Bitz 套餐与使用常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "agica.cn",
+    "host": "agica.cn"
+  },
+  "file_hashes": {
+    "index.html": "187c5a9300f81c150a109abea8e55eaedfb902d9e5473beab99cbba6c4fe8198",
+    "sitemap.xml": "5b1386ac2c53846fbe331668bc6a193d9f5f0cfd9e6711f68d1c3afe4e45d23b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8f32c84f47211239c6a9b1a7e5bd39dd599741e65c292a3b33014714e6b4e344",
+    "robots.txt": "76f619a8370410e8de9cb1d0fb5c95c838a6cc409d70f067acfcdd2d319385e3",
+    "6934955d185dfb0336314d6b70f66145.txt": "c3fa4ab78f5b9d914a3a7fee9c23ab47c3160e9bdf4d0d1831591f08966dbea7"
+  },
+  "revision": "523a7507aeaf44678d932f0c9655380fdfda88d324eead6c6e95847b72eb1d99"
+}
